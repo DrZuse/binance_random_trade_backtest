@@ -1,0 +1,22 @@
+
+[2023-03-10T12:31:58.828] INFO [rndmtrd.py.8252.140102908400064.<module>:25]
+start read csvs
+
+[2023-03-10T12:31:59.089] INFO [rndmtrd.py.8252.140102908400064.<module>:29]
+finish read csvs
+
+[2023-03-10T12:31:59.096] INFO [rndmtrd.py.8252.140102908400064.<module>:36]
+(345533, 5)
+
+[2023-03-10T12:31:59.097] INFO [rndmtrd.py.8252.140102908400064.<module>:56]
+start loop
+
+[2023-03-10T12:32:05.434] INFO [rndmtrd.py.8252.140102908400064.<module>:116]
+profitable trades: 78 - 7.800000000000001 
+lose trades: 452 - 9.040000000000001 
+not_finished_trades: 0 
+profit_percent: 0.1 || loss_percent: 0.02 
+total_profit: -1.2400000000000002
+
+[2023-03-10T12:32:05.435] INFO [rndmtrd.py.8252.140102908400064.<module>:122]
+finish
