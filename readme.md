@@ -1,4 +1,4 @@
-# Script: Read CSV Files and Analyze Trades
+# Script:
 
 This script reads CSV files containing financial data and analyzes random trades based on the data. It calculates the profitability of the trades and provides a summary of the results.
 
